@@ -1,4 +1,4 @@
-# Telus
+# Chargeback Reporting
 
 This is the telus custom reporint app to provide chargeback to customers based upon tenancy.
 
